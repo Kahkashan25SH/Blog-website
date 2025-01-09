@@ -20,7 +20,7 @@ const About = () => {
                 I am Kahkashan
               </h1>
               <p className="leading-relaxed text-lg max-w-lg text-gray-700 mb-6">
-                Welcome to my blog! I&apos;m Asifa, a passionate web developer
+                Welcome to my blog! I&apos;m Kahkashan, a passionate web developer
                 dedicated to exploring and sharing the world of web development.
               </p>
               <p className="leading-relaxed text-lg max-w-lg text-gray-700 mb-8">
